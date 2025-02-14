@@ -4,5 +4,3 @@ preprocessing
 matplotlib
 seaborn
 scikit-learn
-pickle
-streamlit
