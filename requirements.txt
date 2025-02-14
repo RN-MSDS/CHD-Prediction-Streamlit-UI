@@ -3,12 +3,6 @@ numpy
 preprocessing
 matplotlib
 seaborn
-train_test_split
-scatter_matrix
-LogisticRegression
-accuracy_score
-cross_val_score
-mean_squared_error
-r2_score
+sklearn
 pickle
 streamlit
