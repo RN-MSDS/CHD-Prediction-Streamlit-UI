@@ -3,6 +3,6 @@ numpy
 preprocessing
 matplotlib
 seaborn
-sklearn
+scikit-learn
 pickle
 streamlit
